@@ -10,3 +10,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/D-Rudy?label=Follow&style=social)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1185-blue)
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=D-Rudy.D-Rudy)
