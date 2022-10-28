@@ -29,7 +29,7 @@
  
 <p>Code Wars:</p>
 
-![](https://www.codewars.com/users/D-Rudy/badges/large?theme=light)
+![](https://www.codewars.com/users/D-Rudy/badges/micro)
 
 <p>Github:</p>
 
