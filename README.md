@@ -4,9 +4,9 @@
 <hr>
 <h2> alternant développeur Java</h2> 
   <br>
------ (Licence (L3) Informatique générale ----- 
+----- (Licence (L3) Informatique générale) ----- 
 <br>
-  Conservatoire National des Arts et Métiers) 
+  Conservatoire National des Arts et Métiers
   <hr>
 #reconversionprofessionnelle
 </p>
