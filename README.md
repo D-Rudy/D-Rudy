@@ -3,11 +3,11 @@
 <h1 style="color:#0000ff;">Rudy DURIEZ</h1>
 <hr>
 <h2> Alternant développeur Java</h2> 
-  <br>
+<br>
 ----- (Licence (L3) Informatique générale) ----- 
 <br>
   Conservatoire National des Arts et Métiers
-  <hr>
+<hr>
 #reconversionprofessionnelle
 </p>
 <hr>
