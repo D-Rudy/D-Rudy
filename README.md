@@ -4,7 +4,7 @@
 <hr>
 <h2> Alternant développeur Java</h2> 
 <br>
------ (Licence (L3) Informatique générale) ----- 
+----- **(Licence (L3) Informatique générale)** ----- 
 <br>
   Conservatoire National des Arts et Métiers
 <hr>
