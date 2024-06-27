@@ -2,12 +2,11 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <p align="center">
   <h1>D-RUDY</h1>
-</p>
-<hr>
+</p><br>
 <h2>développeur Java</h2> 
 <br>
   Conservatoire National des Arts et Métiers
-<hr>
+<br>
 #reconversionprofessionnelle
 </p>
 <hr>
