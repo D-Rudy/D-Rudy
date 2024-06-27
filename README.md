@@ -1,6 +1,6 @@
 
 
-<h1 style="color:#0000ff;">Rudy DURIEZ</h1>
+![](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif)<h1 style="color:#0000ff;">Rudy DURIEZ</h1>![](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif)
 <hr>
 <h2>développeur Java</h2> 
 <br>
